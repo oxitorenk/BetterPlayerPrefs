@@ -1,0 +1,16 @@
+{
+  "name": "com.oxitorenk.betterplayerprefs",
+  "version": "0.1.0",
+  "displayName": "Better PlayerPrefs",
+  "description": "Versioned JSON persistence built on Unity PlayerPrefs.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oxitorenk/BetterPlayerPrefs.git"
+  },
+  "changelogUrl": "https://github.com/oxitorenk/BetterPlayerPrefs/blob/main/CHANGELOG.md",
+  "author": {
+    "name": "Oxitorenk"
+  }
+}
